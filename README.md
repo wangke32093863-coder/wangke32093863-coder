@@ -41,6 +41,10 @@
 | 优小保 AI 保险顾问 | 覆盖 26 款产品、答复准确率 +23.7%、咨询转化率 +13% |
 | AI 内容与运营中台 | 生产效率 +30%、一次可用率 58%→80%、任务成功率 72%→90% |
 
+## 作品集
+
+🌐 在线作品集：[wangke32093863-coder.github.io/wangke-portfolio](https://wangke32093863-coder.github.io/wangke-portfolio/)
+
 ## 联系我
 
 - 📱 手机：15532093863
