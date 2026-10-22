@@ -1,22 +1,13 @@
 <img src="assets/profile-banner.svg" width="1000" alt="王克｜AI 产品专家：让 AI 理解业务，更能完成业务。" />
 
-<table>
-<tr>
-<td width="180" align="center"><img src="https://avatars.githubusercontent.com/u/332132908?v=4" width="150" alt="王克的个人头像" /></td>
-<td>
-
 ### 王克 · Wang Ke
 
-**AI 产品专家 / AI Product Expert**  
-企业级 AI 应用 · 智能服务 · 用户增长
+**AI 产品专家** · 企业级 AI 应用 · 智能服务 · 用户增长
 
-7 年+互联网产品与用户增长经验，先后就职于**拼多多、泰康在线、众安保险**。连接模型、业务规则与执行流程，将智能服务、用户经营和内容生产做成可衡量的产品。
+7 年+互联网产品与用户增长经验，先后就职于 **拼多多、泰康在线、众安保险**。连接模型、业务规则与执行流程，将智能服务、用户经营和内容生产做成可衡量的产品。
 
-[探索项目案例 ↗](#代表项目)　·　[在线作品集 ↗](https://wangke32093863-coder.github.io/wangke-portfolio/)　·　[邮件联系 ↗](mailto:1057015899@qq.com)
+[探索项目案例 →](#代表项目)　[在线作品集 ↗](https://wangke32093863-coder.github.io/wangke-portfolio/)　[邮件联系 ↗](mailto:1057015899@qq.com)
 
-</td>
-</tr>
-</table>
 
 聚焦 **AI Native 产品设计与企业级 AI 应用落地**，主导或深度参与 AI 多轮智能客服、AI 内容与运营中台、保险智能服务及用户流失预警等项目。覆盖业务场景挖掘、AI 能力边界定义、技术方案设计、模型评测优化、灰度上线与业务效果验证。
 
@@ -54,6 +45,8 @@
 </details>
 
 ## 代表项目
+
+从业务场景出发，以产品效果验证 AI 价值。
 
 | 项目 | 关键成果 |
 | --- | --- |
