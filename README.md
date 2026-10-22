@@ -1,7 +1,4 @@
-<table>
-<tr><td>
-
-<img src="assets/profile-banner.svg" width="100%" alt="王克｜AI 产品专家：让 AI 理解业务，更能完成业务。" />
+<img src="assets/profile-banner.svg" width="1000" alt="王克｜AI 产品专家：让 AI 理解业务，更能完成业务。" />
 
 <table>
 <tr>
@@ -55,9 +52,6 @@
 - **拼多多** · 平台产品与增长
 
 </details>
-
-</td></tr>
-</table>
 
 ## 代表项目
 
