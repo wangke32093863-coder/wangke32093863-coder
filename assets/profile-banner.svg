@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">王克｜AI 产品专家</title><desc id="desc">让 AI 理解业务，更能完成业务。企业级 AI 应用、智能服务、用户增长。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121e2b"/><stop offset="1" stop-color="#0d131c"/></linearGradient><linearGradient id="accent"><stop stop-color="#8798ff"/><stop offset="1" stop-color="#c5b2ff"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#a2b3d5" stroke-opacity=".055"/></pattern></defs>
+<rect width="1000" height="280" rx="22" fill="url(#bg)"/><rect width="1000" height="280" rx="22" fill="url(#grid)"/><rect x=".5" y=".5" width="999" height="279" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+<circle cx="45" cy="43" r="5" fill="#70d7ac"/><text x="62" y="48" fill="#9eafc4" font-family="monospace" font-size="13" letter-spacing="3">WANG KE / AI PRODUCT EXPERT</text><text x="955" y="48" text-anchor="end" fill="#70d7ac" font-size="13" font-family="sans-serif">个人名片</text><path d="M40 70H960" stroke="#ffffff" stroke-opacity=".1"/>
+<text x="42" y="137" fill="#f5f7fc" font-family="sans-serif" font-size="44" font-weight="700">让 AI 理解业务，</text><text x="42" y="196" fill="url(#accent)" font-family="sans-serif" font-size="44" font-weight="700">更能完成业务。</text><text x="44" y="244" fill="#9eafc4" font-family="sans-serif" font-size="15" letter-spacing="2">企业级 AI 应用  /  智能服务  /  用户增长</text>
+<g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<path d="M479 102V247" stroke="#a2b3d5" stroke-opacity=".13"/>
+<text x="510" y="112" fill="#a6b7ce" font-family="monospace" font-size="11" letter-spacing="2">FROM BUSINESS TO IMPACT</text>
+<g fill="#172232" stroke="#354256"><rect x="510" y="130" width="126" height="68" rx="12"/><rect x="669" y="130" width="126" height="68" rx="12"/><rect x="828" y="130" width="126" height="68" rx="12"/></g>
+<rect x="669" y="130" width="126" height="68" rx="12" fill="#202940" stroke="#8b9aff" stroke-opacity=".65"/>
+<g fill="none" stroke="#8193c8" stroke-width="1.5"><path d="M641 164h21m-5-5 5 5-5 5"/><path d="M800 164h21m-5-5 5 5-5 5"/></g>
+<g font-size="16" font-weight="600" text-anchor="middle"><text x="573" y="156" fill="#eef2fa">业务场景</text><text x="732" y="156" fill="#bdc5ff">AI 能力</text><text x="891" y="156" fill="#8cdec0">产品价值</text></g>
+<g fill="#a0afc5" font-size="10.5" text-anchor="middle"><text x="573" y="180">客服 · 运营 · 增长</text><text x="732" y="180">模型 · 规则 · 流程</text><text x="891" y="180">效率 · 体验 · 转化</text></g>
+<g fill="#14212d" stroke="#304151"><rect x="510" y="217" width="88" height="28" rx="14"/><rect x="609" y="217" width="88" height="28" rx="14"/><rect x="708" y="217" width="88" height="28" rx="14"/></g>
+<g fill="#afbdd4" font-family="monospace" font-size="11" text-anchor="middle"><text x="554" y="235">RAG</text><text x="653" y="235">Agent</text><text x="752" y="235">Workflow</text></g>
+<circle cx="837" cy="231" r="3" fill="#70d7ac"/><text x="848" y="235" fill="#8da5a2" font-size="11">业务效果验证</text>
+</g></svg>
